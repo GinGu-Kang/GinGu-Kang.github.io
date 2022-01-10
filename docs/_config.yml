@@ -197,6 +197,7 @@ collections:
 defaults:
   # _posts
   - scope:
+      toc: true
       path: ""
       type: posts
     values:
