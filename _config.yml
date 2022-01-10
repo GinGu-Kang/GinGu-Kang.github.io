@@ -284,3 +284,5 @@ defaults:
       show_date: true
 
 date_format: "%Y-%m-%d"
+
+dark_theme_toggle        : true
