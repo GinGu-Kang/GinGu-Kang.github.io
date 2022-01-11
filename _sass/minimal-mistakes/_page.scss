@@ -58,7 +58,7 @@ body {
     .page__content,
     .page__meta,
     .page__share {
-      position: static;
+      position: relative;
       float: left;
       margin-left: 0;
       margin-right: 0;
@@ -512,7 +512,7 @@ body {
   border-top: 1px solid $border-color;
 
   @include breakpoint($large) {
-    float: center;
+    float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
   }
 
