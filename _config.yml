@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast",  "dirt
 locale                   : "ko-KR"    # 블로그의 주요 언어입니다. 한국어로 보려고 ko-KR로 설정했습니다.
 title                    : "jingu's 하루 삽질"
 title_separator          : "-"
-subtitle                 : "좋은 땅을 만들기 위해"
+subtitle                 : "예쁜 꽃을 심기 위해🌱"
 name                     : "Your Name"
 description              : "An amazing website."
 url                      :  "https://GinGu-Kang.github.io"
