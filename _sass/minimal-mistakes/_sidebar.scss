@@ -85,9 +85,9 @@
 
     &.sticky {
       @include clearfix();
-      // position: -webkit-sticky;
-      // position: sticky;
-      position: static;
+      position: -webkit-sticky;
+      position: sticky;
+      // position: static;
       top: 2em;
       float: right;
     }
