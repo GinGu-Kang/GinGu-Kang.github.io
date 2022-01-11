@@ -4,7 +4,7 @@ title:  "첫번 째 블로그입니다!"
 categories: coding
 tag: [python, blog, jekyll]
 toc: true
-author_profile: false
+author_profile: true
 ---
 
 **[공지사항]** [지킬블로그 신규 업데이트 안내 드립니다.](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
