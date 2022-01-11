@@ -6,6 +6,12 @@ main:
     url: https://github.com/GinGu-Kang
   - title: "Resum💻"
     url: /year-archive/
+  - title: "Search"
+    url: /search/
+
+
+
+
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
