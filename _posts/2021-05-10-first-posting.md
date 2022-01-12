@@ -2,7 +2,6 @@
 layout: single
 title:  "첫번 째 블로그입니다!"
 categories: coding
-tag: [python, blog, jekyll]
 toc: true
 ---
 

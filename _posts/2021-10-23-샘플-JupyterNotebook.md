@@ -2,7 +2,6 @@
 layout: single
 title:  "Jupyter 노트북 변환 예제"
 categories: jupyter
-tag: [python, blog, jupyter]
 toc: true
 author_profile: false
 ---
