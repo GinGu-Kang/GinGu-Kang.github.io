@@ -104,7 +104,7 @@ categories: "Spring"
 
 
 # build.gradle
-![image](../assets/images/spring/build_gradle.png)
+![image](/assets/images/spring/build_gradle.png)
 
 
 
