@@ -1,6 +1,5 @@
 ---
-title: "Spring 시작"
-subtitle: "[Tips]"
+title: "Spring 입문"
 categories: "Spring"
 date: 2021-01-12 17:00
 ---
@@ -22,6 +21,25 @@ date: 2021-01-12 17:00
     <li>DB 연동 </li>
     <li>테스트 케이스 작성</li>
 </ol>
+의 순서대로 진행된다.
 
 </div>
 </details>
+<details>
+<summary>사용 기술</summary>
+<div markdown="1">       
+
+<ol>
+    <li>Spring boot</li>
+    <li>JPA</li>
+    <li>Tomcat</li>
+    <li>Gradle</li>
+    <li>Thymeleaf</li>
+    <li>HIBERNATE</li>
+</ol>
+
+</div>
+</details>
+
+### 
+
