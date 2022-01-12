@@ -54,7 +54,7 @@ categories: "Spring"
 
 링크를 클릭하여 스프링 부트 스타터 사이트로 이동한다.
 
-![image](../assets/images/spring/spring_starter.png)
+![image](/assets/images/spring/spring_starter.png)
 
 ### Project
 라이브러리를 가져와 주는 빌드 도구를 선택하는 부분 이 프로젝트에서는 **Gradle**을 사용한다. 현업에서는 Gradle을 주로 많이 쓴다고 함(Ant 와 Maven의 장점만 모아서 만듬)
@@ -82,16 +82,16 @@ categories: "Spring"
 
 ### Generate
 최하단의 Generate 부분을 눌러 프로젝트를 생성후 압축 해제
-![image](../assets/images/spring/generate.png)
+![image](/assets/images/spring/generate.png)
 
 
 # 인텔리제이에서 프로젝트 파일 열기
-![image](../assets/images/spring/open_project.png)
+![image](/assets/images/spring/open_project.png)
 인텔리제이의 첫화면에서 Open 버튼을 누르고 생성해준 파일을 찾아 open
 
 
 # 프로젝트 내부 파일 살펴 보기
-![image](../assets/images/spring/project_in.png)
+![image](/assets/images/spring/project_in.png)
 * .idea 
 	* 인텔리제이가 사용하는 설정파일
 * src
