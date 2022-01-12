@@ -4,6 +4,7 @@ title:  "Jupyter 노트북 변환 예제"
 categories: jupyter
 toc: true
 author_profile: false
+published: false
 ---
 
 <head>
