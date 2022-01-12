@@ -1,8 +1,6 @@
 ---
 title: "Spring 입문"
 categories: "Spring"
-date: 2021-01-12 17:00
-visible: true
 ---
 
 # 스프링 입문
@@ -10,10 +8,11 @@ visible: true
 
 # 영상에서의 공부 방법
 영한님의 강의에서는 이론 수업에 힘들어하는 개발자들을 위하여 간단한 웹 어플리케이션 개발 실습을 하며 강의를 진행 한다. 
-<details>
-<summary>웹어플리케이션 개발 순서</summary>
-<div markdown="1">       
+<br>
+<br>
 
+### 웹어플리케이션 개발 순서
+---
 <ol>
     <li>스프링 프로젝트 생성</li>
     <li>스프링 부트로 웹 서버 실행</li>
@@ -23,13 +22,10 @@ visible: true
     <li>테스트 케이스 작성</li>
 </ol>
 의 순서대로 진행된다.
-
-</div>
-</details>
-<details>
-<summary>사용 기술</summary>
-<div markdown="1">       
-
+<br>
+  
+### 사용 기술
+---
 <ol>
     <li>Spring boot</li>
     <li>JPA</li>
@@ -39,8 +35,6 @@ visible: true
     <li>HIBERNATE</li>
 </ol>
 
-</div>
-</details>
 
 ### 
 
