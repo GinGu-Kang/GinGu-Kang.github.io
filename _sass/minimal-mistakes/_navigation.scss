@@ -525,9 +525,10 @@
     @include yiq-contrasted($active-color);
   }
 }
-.toc__menu li{
-  font-size: 14px;
+.toc__menu li a{
+  font-size: 11px;
 }
+
 .toc__menu {
   margin: 0;
   padding: 0;
