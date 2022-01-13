@@ -1,6 +1,7 @@
 ---
 title: "Spring 시작하기"
 categories: "Spring"
+author_profile: true
 ---
 
 # 스프링 입문
