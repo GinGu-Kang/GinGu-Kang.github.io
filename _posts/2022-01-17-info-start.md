@@ -64,3 +64,10 @@ author_profile: false
 
 정보 시스템 구축관리 기출문제 워드 클라우
 ![images](/assets/images/system_design.jpeg)
+
+<details>
+<summary>출처</summary>
+<div markdown="1">       
+<a href="https://www.youtube.com/watch?v=uZsvn8-xnn4&list=PL6i7rGeEmTvoXg4N66OMqFo7eh36wGfRw&index=17">이기적 정보처리기사</a>
+</div>
+</details>
