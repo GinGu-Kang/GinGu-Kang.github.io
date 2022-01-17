@@ -1,5 +1,5 @@
 ---
-title: "스타트업 성공사례 - 당근마켓"
+title: "정보처리기사 필기 출제 경향 분석"
 categories: "sw"
 author_profile: true
 ---
