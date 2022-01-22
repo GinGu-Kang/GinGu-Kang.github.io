@@ -2,6 +2,7 @@
 title: "정보처리기사 필기 출제 경향 분석"
 categories: "sw"
 author_profile: false
+published: false
 ---
 #정보처리기사
 
