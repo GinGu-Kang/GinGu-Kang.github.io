@@ -43,16 +43,17 @@ Spring IoC 컨테이너를 이해하기 위해 IOC(Inversion of Control,제어�
 * 제어권을 내가 아닌 다른 주체에게 넘기는 것
 
 
-스프링을 사용하기 전까지 배운 자바 프로그래밍에서는 사용자가 객체들을 직접 생성하고 메소드를 호출하는 구조 였다. 
+스프링을 사용하기 전까지 배운 자바 프로그래밍에서는 사용자가 객체들을 직접 생성하고 메소드를 호출하는 구조 였다.
 ``` java
 public class A{
     Student b = new Student();
     b.method();
 }
 ```
-와 같은 구조 이다. 하지만 Spring 프레임워크 에서는 프로그래머가 직접 객체를 생성하는 구조가 아닌 Spring Container가 java 객체의 생성과 관계설정, 사용, 제거 등의 작업을 제어 하는 IOC 방식을 사용한다.
+와 같은 구조 이다. 하지만 Spring 프레임워크 에서는 프로그래머가 직접 객체를 생성하는 구조가 아닌 Spring
+ Container가 java 객체의 생성과 관계설정, 사용, 제거 등의 작업을 제어 하는 IOC 방식을 사용한다.
 
 
 ## 스프링 Bean이란?
- 이때, 프로그래머가 아닌 Spring IOC Container에게 관리당하는 java객체들을 **Spring Bean 객체** 라고 부른다. 
+ 이때, 프로그래머가 아닌 Spring IOC Container에게 관리당하는 java객체들을 **Spring Bean 객체** 라고 부른다.   
 
